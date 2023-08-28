@@ -4,3 +4,7 @@ def app_start():
 
 def sums(a , b):
     return a + b
+
+
+def first_name(name):
+    return f'your first name is {name}'
